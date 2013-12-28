@@ -1,16 +1,10 @@
 # Semantic [![Build Status](https://travis-ci.org/Semantic-Org/Semantic-UI.png)](https://travis-ci.org/Semantic-Org/Semantic-UI)
-Semantic is a UI Component library implemented using a set of specifications designed around natural language
 
-Semantic UI is under constant development, so **be sure to check out our [release notes](https://github.com/Semantic-Org/Semantic-UI/blob/master/RELEASE%20NOTES.md) for recent changes**.
+Semantic é uma biblioteca de componentes de UI implementada usando um conjunto de especificações baseadas na linguagem natural.
+
+Semantic UI está sobre desenvolvimento constante, então **certifique-se de checar nossas [notas de lançamento](https://github.com/Semantic-Org/Semantic-UI/blob/master/RELEASE%20NOTES.md) para atualizações recentes**.
 
 [![Flattr This](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=jlukic&url=https%3A%2F%2Fgithub.com%2Fjlukic%2FSemantic-UI)
-
-### Translations
-* [中文翻译 Semantic UI](http://semantic.icoolxue.com/)
-
-We need people who can contribute to translations of Semantic UI's documentation. 
-
-Please [reach out by e-mail](mailto:jack@semantic-ui.com) if you can help.
 
 ### Bugs and Issues
 
@@ -20,23 +14,24 @@ Please [share any issues](https://github.com/Semantic-Org/Semantic-UI/issues?sta
 
 If you are reporting a bug *you must create a test-case*. You can [fork this jsfiddle](http://jsfiddle.net/Vbr9d/42/) to get you started.
 
-### Browser Support
+### Suporte dos Navegadores
 
-* Last 2 Versions FF, Chrome, IE (aka 10+)
+* Últimas 2 versões do Firefox, Chrome
+* IE10+
 * Safari 6
-* IE 9+ (Browser prefix only)
+* IE 9+ (somente com prefixos do navegador)
 * Android 4
 * Blackberry 10
 
-## Getting Started
+## Iniciando
 
-The Semantic library describes many UI elements. In most instances it might be best to build a custom build with only the elements you need.
+A biblioteca Semantic descreve muito elementos de UI. No geral, pode ser melhor construir uma build personalizada só com os elementos que você precisa.
 
-To download the entire library
+Para baixar a biblioteca completa
 
     git clone git@github.com:Semantic-Org/Semantic-UI.git
 
-If you prefer to download the whole kit as a zip, it is so conveniently packaged.
+Se você prefere baixar o kit inteiro como um .zip, ela já está convenientemente "embalada".
 
     http://semantic-ui.com/build/semantic.zip
 
